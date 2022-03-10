@@ -1,0 +1,12 @@
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\bin\Debug\SS.exe.config
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\bin\Debug\SS.exe
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\bin\Debug\SS.pdb
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\bin\Debug\SS.xml
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\obj\Debug\SS.vbproj.AssemblyReference.cache
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\obj\Debug\SS.Form1.resources
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\obj\Debug\SS.Resources.resources
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\obj\Debug\SS.vbproj.GenerateResource.cache
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\obj\Debug\SS.vbproj.CoreCompileInputs.cache
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\obj\Debug\SS.exe
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\obj\Debug\SS.xml
+C:\Users\35196\Desktop\Trabalho Final\Segurança Social\SS\SS\obj\Debug\SS.pdb
